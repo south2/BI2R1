@@ -35,8 +35,6 @@ ADC_MODE(ADC_VCC);
 #define Motor_Shield_Address 0x30
 
 const char* ota_host = "bi-esp8266-webupdate";
-//const char* ssid = "EasyBox-904685";
-//const char* password = "k2gKEsEnATtQ7dty";
 const char* mqtt_server = "m12.cloudmqtt.com";
 uint16_t mqtt_port = 15376;
 const char* mqtt_user = "nvcuumkf";
